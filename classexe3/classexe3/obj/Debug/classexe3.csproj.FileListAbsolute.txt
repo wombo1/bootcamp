@@ -1,0 +1,6 @@
+C:\Users\nick\source\repos\classexe3\classexe3\obj\Debug\classexe3.csprojAssemblyReference.cache
+C:\Users\nick\source\repos\classexe3\classexe3\bin\Debug\classexe3.exe.config
+C:\Users\nick\source\repos\classexe3\classexe3\bin\Debug\classexe3.exe
+C:\Users\nick\source\repos\classexe3\classexe3\bin\Debug\classexe3.pdb
+C:\Users\nick\source\repos\classexe3\classexe3\obj\Debug\classexe3.exe
+C:\Users\nick\source\repos\classexe3\classexe3\obj\Debug\classexe3.pdb
